@@ -4,7 +4,8 @@
 - หัวข้อเกมรถเลือกเลข
 - เป็นแนว Endless ขับรถไปเรื่อยๆเลือกเลขห้ามให้ MPH เป็น 0 และดู score ว่าได้เท่าไหร่ คล้าย subway surf
 # Preview
-[<img src="cargame.png" />] 
+<img src="cargame.png" />
+
 # Created by
 [Ponynie](https://github.com/Ponynie)
 
